@@ -1,0 +1,7 @@
+__pycache__/
+*.pyc
+.venv/
+.processed_images.json
+SD_CARD/*.jpg
+SD_CARD/*.jpeg
+SD_CARD/*.png
